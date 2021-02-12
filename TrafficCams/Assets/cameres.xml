@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gml="http://www.opengis.net/gml" xmlns:wfs="http://www.opengis.net/wfs" xmlns:cite="http://www.opengeospatial.net/cite">
+  <Document>
+    <Style id="IconStyler">
+      <IconStyle>
+        <colorMode>normal</colorMode>
+        <scale>0.8</scale>
+        <Icon>
+          <href>http://mct.sitep.com/img/icon/cam/b.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>C-58 - Km 0.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-58 - Km 0.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Nus Trinitat&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc87.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.1849528,41.45989301</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-58 - Km 1.82</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-58 - Km 1.82&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;MONTCADA I REIXAC&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc85.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.17446844,41.46672443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-58 - Km 6.15</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-58 - Km 6.15&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Ripollet &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc89.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.1480753,41.4983473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-66 - Km 5.30</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-66 - Km 5.30&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;FORALLAC&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb24.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>3.09302557,41.95173528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 195.60</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 195.60&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;HOSPITALET DE LLOBREGAT&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc5.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.10125687,41.33995348</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pl Dore</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Pl Dore&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Terrassa&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://urgell.terrassa.cat/it_terrassa/cam01.jpeg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Terrassa&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.00746247,41.5569824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Topete-Montcada</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Topete-Montcada&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Terrassa&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://urgell.terrassa.cat/it_terrassa/cam02.jpeg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Terrassa&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.01768703,41.55813019</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tarradelles-Abad Marcet</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Tarradelles-Abad Marcet&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Terrassa&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://urgell.terrassa.cat/it_terrassa/cam03.jpeg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Terrassa&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.00210668,41.57383071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jaquard-Castellar</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Jaquard-Castellar&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Terrassa&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://urgell.terrassa.cat/it_terrassa/cam04.jpeg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Terrassa&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.02210166,41.56410054</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avda. Vallès - 22 juliol (est)</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Avda. Vallès - 22 juliol (est)&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Terrassa&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://urgell.terrassa.cat/it_terrassa/cam05.jpeg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Terrassa&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.03347089,41.5682078</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avda. Vallès - 22 juliol (oest)</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Avda. Vallès - 22 juliol (oest)&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Terrassa&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://urgell.terrassa.cat/it_terrassa/cam06.jpeg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Terrassa&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.03453844,41.56818817</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avda. Gl. Catalanes-Agricultura</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Avda. Gl. Catalanes-Agricultura&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Terrassa&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://urgell.terrassa.cat/it_terrassa/cam07.jpeg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Terrassa&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.02789291,41.55667167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meridiana - Km 0.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Meridiana - Km 0.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Meridiana&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc86.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.18923558,41.45271277</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 196.93</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 196.93&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Bellvitge&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc74.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.11398874,41.34789812</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-23 - Km 0.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-23 - Km 0.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;BARCELONA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc29.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.10717197,41.38256781</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-23 - Km 3.11</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-23 - Km 3.11&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT JUST DESVERN&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc33.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.07409722,41.37563461</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-16 - Km 4.76</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-16 - Km 4.76&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Vallvidrera&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=rc1.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.09489396,41.42228551</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-16 - Km 14.85</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-16 - Km 14.85&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Rubí&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=rc2.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.04971308,41.49846919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-16 - Km 22.35</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-16 - Km 22.35&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Terrassa&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=rc3.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.00648339,41.55041951</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-23 - Km 6.14</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-23 - Km 6.14&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;ENLLAÇ A-2&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc67.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.03784659,41.37396062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CG1 (PONT SANTA COLOMA</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;CG1 (PONT SANTA COLOMA&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Andorra&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.mobilitat.ad/mapa/fotos/adm_Pont_Santa_Coloma.jpg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Andorra&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.50065231,42.49383514</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CG2 - Km 5.56</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;CG2 - Km 5.56&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Andorra&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.mobilitat.ad/mapa/fotos/adm_mpeg_Encamp%20Nord.jpg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Andorra&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.58929257,42.53669708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CG2 - Km 21.42</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;CG2 - Km 21.42&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Andorra&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.mobilitat.ad/mapa/fotos/adm_mpeg_Grau%20Roig.jpg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Andorra&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.70063604,42.54668826</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CG2 - Km 30.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;CG2 - Km 30.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Andorra&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.mobilitat.ad/mapa/fotos/adm_mpeg_Bombers.jpg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Andorra&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.73071993,42.54664232</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaça Antonio López</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Plaça Antonio López&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/PlAntonioLopez.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.18207217,41.38141543</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balmes - Gran Via</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Balmes - Gran Via&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/BalmesGranVia.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.16560024,41.3871296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balmes - Mitre</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Balmes - Mitre&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/BalmesMitre.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.14077336,41.40444905</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaça Molina</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Plaça Molina&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/PlMolina.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.14766551,41.40120644</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marina - Pujades</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Marina - Pujades&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/MarinaPujades.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.18912039,41.39305967</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ronda de Dalt / Carretera Esplugues</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Ronda de Dalt / Carretera Esplugues&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/RondadeDaltCrtaEsplugues.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.10713156,41.38865464</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ronda Litoral / Zona Franca</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Ronda Litoral / Zona Franca&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/RondaLitoralZonaFranca.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.1468751,41.34935557</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ronda de Dalt / Velòdrom</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Ronda de Dalt / Velòdrom&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/RondadeDaltVelodrom.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.15162852,41.43769067</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ronda de Dalt / Sant Gervasi</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Ronda de Dalt / Sant Gervasi&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/RondadeDaltSantGervasi.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.13618326,41.41525263</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Diagonal - Ciutat de Granada</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Diagonal - Ciutat de Granada&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/DiagonalCiutatdeGranada.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.19057765,41.40415691</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaça Urquinaona</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Plaça Urquinaona&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/PlUrquinaona.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.17228212,41.38890733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gran Via - Marina</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Gran Via - Marina&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/GranViaMarina.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.18124953,41.39914869</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaça Espanya - Paral·lel</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Plaça Espanya - Paral·lel&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/PlEspanya.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.14976484,41.37516851</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaça Catalunya - Pelai</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Plaça Catalunya - Pelai&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/PlCatalunya.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.16863241,41.38749875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meridiana - Felip II</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Meridiana - Felip II&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/MeridianaFelipII.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.1871113,41.42029817</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ronda Litoral / Moll de la Fusta</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Ronda Litoral / Moll de la Fusta&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/RondaLitoralMollFusta.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.17973115,41.37724461</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ronda Litoral / Badajoz</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Ronda Litoral / Badajoz&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/RondaLitoralBadajoz.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.20302198,41.39294027</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ronda de Dalt / Meridiana</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Ronda de Dalt / Meridiana&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/RondadeDaltMeridiana.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.1877678,41.44698951</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaça Països Catalans</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Plaça Països Catalans&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/PlPaissosCatalans.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.14417036,41.3810396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Diagonal - Maria Cristina</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Diagonal - Maria Cristina&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/DiagonalMCristina.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.12703713,41.38836632</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaça Pau Vila</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Plaça Pau Vila&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/PlPauVila.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.18532062,41.38165624</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CG1 - Km 11.18</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;CG1 - Km 11.18&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Andorra&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.mobilitat.ad/mapa/fotos/adm_h263_Riu%20Runner.jpg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Andorra&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.47415294,42.43629443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CG1 - Km 5.30</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;CG1 - Km 5.30&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Andorra&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.mobilitat.ad/mapa/fotos/adm_h263_Margineda.jpg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Andorra&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.48938748,42.4805262</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ronda Litoral / Bon Pastor</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Ronda Litoral / Bon Pastor&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/RondaLitoralBonPastor.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.20924092,41.43597442</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meridiana - Rio de Janeiro</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Meridiana - Rio de Janeiro&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/MeridianaRioJaneiro.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.18641026,41.44309219</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-23 - Km 7.38</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-23 - Km 7.38&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT FELIU DE LLOBREGAT&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc37.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.02896365,41.38129628</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CG1 - Km 0.40</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;CG1 - Km 0.40&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Andorra&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.mobilitat.ad/mapa/fotos/adm_mpeg4_bus.jpg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Andorra&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.5278171,42.50519513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aragó - Passeig de Gràcia</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Aragó - Passeig de Gràcia&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/AragoPgGracia.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.16487462,41.39225298</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plaça Cerdà</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;Plaça Cerdà&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Barcelona&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.bcn.cat/transit/imatges/PlCerda.gif?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;IMI&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.13587689,41.36499236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CG1 - Km 8.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;CG1 - Km 8.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;Andorra&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://www.mobilitat.ad/mapa/fotos/adm_h263_Sant%20Eloi.jpg?a=1"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;Andorra&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.4866837,42.45700833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-32 - Km 85.05</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-32 - Km 85.05&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;ALELLA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc10.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.29593793,41.48349138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-32 - Km 50.37</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-32 - Km 50.37&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;GAVÀ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc72.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.02120264,41.29896673</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-32 - Km 54.30</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-32 - Km 54.30&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT BOI CENTRE&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc71.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.04994587,41.32687007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-35 - Km 94.70</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-35 - Km 94.70&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt; LLAGOSTERA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb5.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.87571275,41.80793591</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 310.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 310.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANTA CRISTINA D ARÓ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb14.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.99975908,41.80819984</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 312.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 312.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;CASTELL D ARÓ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb15.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>3.02290548,41.8056958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 316.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 316.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;CASTELL D ARÓ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb17.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>3.06322533,41.82720423</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N-340 - Km 1130.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;N-340 - Km 1130.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;C-44 1&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd14.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>0.92315682,40.99725499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 327.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 327.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;PALAMÓS&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb20.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>3.13879509,41.86998066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-66 - Km 7.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-66 - Km 7.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt; LA BISBAL D EMPORDÀ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb25.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>3.06715633,41.95721731</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-65 - Km 5.40</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-65 - Km 5.40&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANTA CRISTINA D ARÓ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb13.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.97496638,41.82507454</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-65 - Km 12.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-65 - Km 12.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;LLAGOSTERA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb11.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.89963878,41.82953894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-65 - Km 17.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-65 - Km 17.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;CASSÀ DE LA SELVA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb10.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.88415644,41.87047677</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T-11 - Km 0.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;T-11 - Km 0.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;TARRAGONA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd1.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.05674869,41.16528684</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N-340 - Km 1072.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;N-340 - Km 1072.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT CARLES DE LA RAPITÀ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd19.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>0.58057432,40.62733521</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N-340 - Km 1099.20</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;N-340 - Km 1099.20&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt; L AMPOLLA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd17.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>0.70822775,40.8236911</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-58 - Km 1.82</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-58 - Km 1.82&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;MONTCADA I REIXAC&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc85.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.17446844,41.46672443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-58 - Km 7.08</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-58 - Km 7.08&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;BARBERÀ DEL VALLÈS&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc15.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.14169815,41.50420265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-58 - Km 15.24</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-58 - Km 15.24&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SABADELL&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc20.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.07363899,41.54352325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-58 - Km 17.73</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-58 - Km 17.73&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;TERRASSA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc28.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.04397781,41.54401155</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AP-7 - Km 146.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;AP-7 - Km 146.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;BARBERÀ DEL VALLÈS&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc78.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.14492987,41.51579224</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AP-7 - Km 154.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;AP-7 - Km 154.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;ST. CUGAT&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc80.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.06568334,41.49006147</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-20 - Km 20.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-20 - Km 20.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;BADALONA MONTIGALÀ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc81.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.23156279,41.4610999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-20 - Km 21.20</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-20 - Km 21.20&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;BADALONA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc64.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.24274935,41.46599223</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-20 - Km 24.65</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-20 - Km 24.65&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;MONTGAT&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc67.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.27965398,41.4710549</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-20 - Km 0.83</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-20 - Km 0.83&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT BOI&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc65.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.07121286,41.33229667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-20 - Km 1.65</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-20 - Km 1.65&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;EL PRAT&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc64.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.08163599,41.33576213</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-35 - Km 84.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-35 - Km 84.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;MAÇANET DE LA SELVA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb1.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.75909615,41.7852123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-2 - Km 445.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;A-2 - Km 445.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SOSES&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc62.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>0.45593978,41.53806059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-2 - Km 456.73</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;A-2 - Km 456.73&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;LLEIDA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc63.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>0.55225371,41.6266203</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-2 - Km 534.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;A-2 - Km 534.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;MONTMANEU&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc61.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.41970816,41.62317981</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-2 - Km 560.58</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;A-2 - Km 560.58&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;CASTELLOLÍ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc60.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.68214906,41.59419695</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-2 - Km 606.09</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;A-2 - Km 606.09&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT JOAN DESPÍ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc59.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.04238086,41.36891741</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>A-2 - Km 608.13</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;A-2 - Km 608.13&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT JOAN DESPÍ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc58.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.05385692,41.35565067</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-23 - Km 11.10</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-23 - Km 11.10&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT VICENÇ DELS HORTS&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc40.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.01125799,41.41351189</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-23 - Km 13.57</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-23 - Km 13.57&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;PAPIOL&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc43.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.0043869,41.43493787</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B-23 - Km 15.20</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;B-23 - Km 15.20&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;PAPIOL&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc44.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.99412641,41.44633866</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 209.13</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 209.13&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;SANT ADRIÀ DE BESÒS&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc2.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.21762793,41.42453068</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 210.15</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 210.15&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;BADALONA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc3.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.22474675,41.43189432</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 211.64</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 211.64&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;BADALONA CENTRE&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc82.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.23201444,41.44322244</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 215.81</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 215.81&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;MONTGAT&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc8.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.27239654,41.46464921</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 182.65</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 182.65&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;CASTELLDEFELS&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc18.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>1.99965568,41.26998903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 188.94</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 188.94&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;VILADECANS&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc12.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.05576847,41.29348633</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-31 - Km 192.18</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-31 - Km 192.18&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;AEROPORT&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc70.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.07335412,41.31879083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-35 - Km 91.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-35 - Km 91.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;CALDES DE MALAVELLA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb4.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.84190458,41.8017901</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-35 - Km 94.70</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-35 - Km 94.70&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt; LLAGOSTERA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb5.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.87571275,41.80793591</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-35 - Km 96.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-35 - Km 96.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;LLAGOSTERA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb6.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.89657676,41.81103899</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-66 - Km 7.50</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-66 - Km 7.50&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt; LA BISBAL D EMPORDÀ&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb25.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>3.06715633,41.95721731</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C-65 - Km 17.00</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;C-65 - Km 17.00&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt;CASSÀ DE LA SELVA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb10.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>2.88415644,41.87047677</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N-340 - Km 1099.20</name>
+      <styleUrl>#IconStyler</styleUrl>
+      <description>            &lt;table width="270"&gt;            &lt;tr&gt;            &lt;td height="60"&gt;            &lt;label            style="color: #000F84;font-family: Arial,Helvetica,sans-serif;font-size: 14px;font-weight: bolder;"&gt;            &lt;strong&gt;N-340 - Km 1099.20&lt;/strong&gt;&lt;br/&gt;            &lt;strong&gt;Municipi: &lt;/strong&gt; L AMPOLLA&lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr height="200"&gt;            &lt;td&gt;            &lt;img            src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd17.jpg"            alt="imatge actual" style="margin-top:10px;margin-left:0px;height:200px;width:270px;"/&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;            &lt;td height="30"&gt;            &lt;label&gt;            &lt;b&gt;Font : &lt;/b&gt;            &lt;font size="2"&gt;SCT&lt;/font&gt;            &lt;label/&gt;            &lt;/label&gt;            &lt;/td&gt;            &lt;/tr&gt;            &lt;/table&gt;          </description>
+      <Point>
+        <coordinates>0.70822775,40.8236911</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
