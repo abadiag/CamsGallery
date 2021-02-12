@@ -21,7 +21,7 @@
                         <Image                            
                             x:Name="detailImage"
                             Source="{x:Bind ImageBmp}" 
-                            Stretch="None" />
+                            Stretch="Fill" />
                     </Viewbox>
                 </DataTemplate>
             </FlipView.ItemTemplate>
