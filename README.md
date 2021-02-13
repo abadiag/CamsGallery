@@ -1,4 +1,10 @@
 # CamsGallery
 Public traffic cams viewer UWP (Universal windows platform)
 
-![alt text](https://github.com/abadiag/CamsGallery/AppImages/CamsCaptureDark.png?raw=true)
+Dark theme applied to the app:
+
+Cams View:
+![](https://github.com/abadiag/CamsGallery/blob/main/AppImages/CamsCaptureDark.PNG?raw=true)
+
+Settings View:
+![](https://github.com/abadiag/CamsGallery/blob/main/AppImages/SettingsView.PNG?raw=true)
