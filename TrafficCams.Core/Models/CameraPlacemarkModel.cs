@@ -16,7 +16,13 @@ namespace TrafficCams.Core.Models
         public string latitude { get; set; }
         public string longitude { get; set; }
         public BasicGeoposition BasicGeoPos { get; set; }
-    public BitmapImage ImageBmp { get => new BitmapImage(source); }
-     
+        public BitmapImage ImageBmp
+        {
+            get => new BitmapImage(source);
+            set
+            {
+                ImageBmp = value;
+            }
+        }
     }
 }

@@ -34,6 +34,15 @@ namespace TrafficCams.Views
             set { Set(ref _versionDescription, value); }
         }
 
+        double _refresh_time = 1.0;
+
+        public double RefreshTime
+        {
+            get { return _refresh_time; }
+
+            set { Set(ref _refresh_time, value); }
+        }
+
         public SettingsPage()
         {
             InitializeComponent();
@@ -70,6 +79,12 @@ namespace TrafficCams.Views
             }
         }
 
+        private void RefreshTimeChanged(object sender, Windows.UI.Xaml.Controls.Primitives.RangeBaseValueChangedEventArgs e)
+        {
+            var param = (sender as Slider)?.Value ?? 1.0;
+            UpdateService.ChangeConfigAsync(param * 1000);
+        }
+
         public event PropertyChangedEventHandler PropertyChanged;
 
         private void Set<T>(ref T storage, T value, [CallerMemberName]string propertyName = null)
@@ -84,5 +99,7 @@ namespace TrafficCams.Views
         }
 
         private void OnPropertyChanged(string propertyName) => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+
+
     }
 }

@@ -13,8 +13,8 @@
   <mp:PhoneIdentity PhoneProductId="E49819E1-E4BB-4474-933F-3754F4FA6A5C" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>TrafficCams</DisplayName>
-    <PublisherDisplayName>alber</PublisherDisplayName>
+    <DisplayName>TrafficCamsCAT</DisplayName>
+    <PublisherDisplayName>ABGSoft</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

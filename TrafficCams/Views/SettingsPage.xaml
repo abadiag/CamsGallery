@@ -27,7 +27,7 @@
                         GroupName="AppTheme" >
                         <RadioButton.CommandParameter>
                             <xaml:ElementTheme>Light</xaml:ElementTheme>
-                        </RadioButton.CommandParameter> 
+                        </RadioButton.CommandParameter>
                     </RadioButton>
                     <RadioButton 
                         x:Uid="Settings_Theme_Dark"
@@ -52,7 +52,20 @@
                 </StackPanel>
             </StackPanel>
 
-            <TextBlock x:Uid="Settings_About" Style="{ThemeResource SubtitleTextBlockStyle}" />
+                <TextBlock x:Uid="SettingsRefresh" />
+                <Slider x:Name="RefreshTimeSlider"
+                        TickFrequency="10"
+                        Header="Refresh Time (s)"
+                        MaxWidth="300"
+                        HorizontalAlignment="Left"
+                        ValueChanged="RefreshTimeChanged"
+                        Minimum="1"
+                        Value="{x:Bind RefreshTime}"/>
+             
+
+
+
+                <TextBlock x:Uid="Settings_About" Style="{ThemeResource SubtitleTextBlockStyle}" />
 
             <StackPanel Margin="{StaticResource XSmallTopMargin}">
                 <TextBlock Style="{ThemeResource BodyTextBlockStyle}" Text="{x:Bind VersionDescription, Mode=OneWay}" />

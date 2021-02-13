@@ -177,4 +177,7 @@
     <value>Personalization</value>
     <comment>Personalization text for Settings</comment>
   </data>
+  <data name="SettingsRefresh.Text" xml:space="preserve">
+    <value>Refresh time setup</value>
+  </data>
 </root>

@@ -129,6 +129,9 @@
     <value>Localització camera</value>
     <comment>Your location text on map page</comment>
   </data>
+  <data name="SettingsRefresh.Text" xml:space="preserve">
+    <value>Refresh time setup</value>
+  </data>
   <data name="Settings_About.Text" xml:space="preserve">
     <value>Sobre l'Aplicació</value>
     <comment>About this application title for Settings</comment>
